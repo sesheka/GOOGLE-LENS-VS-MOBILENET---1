@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    background-color: aqua;
+    color: black;
+}
+#vs{
+    background-color: aqua;
+    color: black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+    width: 200px;
+    font-size: 25px;
+}
+.test_image_and_results{
+    background-color: aqua;
+    color: black;
+    font-size: 25;
+    padding-left: 50px;
+    margin-left: 45px;
+}
+h5{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    font-size: 23px;
+}
+.copy_right_footer
+  {
+    position: fixed;
+    color: black;
+    width: 100%;
+    bottom:0;
+    background-color: aqua;
+    line-height: 3;
+    text-align: center;
+  }
+.mini_result{
+    font-size: 23px;
+}
